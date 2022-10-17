@@ -1,0 +1,10 @@
+table, tr, th, td {
+    border: 1px solid maroon;
+}
+body {
+    background-color: pink;
+    color: white;
+}
+a {
+    color: maroon;
+}
